@@ -10,10 +10,15 @@ World Background
 main differences in your game world
 ...
 Pillars
-3-4 fundementals of this game
+[KG] Core concepts include refined stealth and combat against multiple opponents. 
+[KG] Other core elements are a great focus on exploration and discovery of a vast limitless universe
+[KG] and an emotional expansive storyline. 
 ...
 30 second gameplay description
-describe what its like to play the essence of the game loop
+[KG] The gameplay loop concists of enticing and rewarding combat that gives players just the right number of difficulty for them to keep coming back for more.
+[KG] Enemies are scalled gradually to to stay on par with the player and offer a balanced yet challenging experience.
+[KG] The player will be overwhelmed by opportunities to explore the vastness of space. The Majorityt of their time will be exploration, the progression of the main storyline and the rewarding mastery of the combat loop.
+ 
 ...
 Features points
 key selling points of your game
