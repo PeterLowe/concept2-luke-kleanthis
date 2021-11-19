@@ -17,6 +17,16 @@ describe what its like to play the essence of the game loop
 ...
 Features points
 key selling points of your game
+[LK]
+the main key selling points of our game is:
+60 hours of campaign gameplay.
+up to 4 players can play multiplayer at a time.
+we have a modding community which can support players with customs items that they 
+wish to be added to their game.
+we have 5 dlc's that come at a reasonable price of 59.99 euro,
+this bundle is called the season one luner eclipse
+
+
 ...
 Market analysis
 similar games , typical customer, expected sales
