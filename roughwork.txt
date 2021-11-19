@@ -1,7 +1,6 @@
-[KG] Kleanthis Grigoriou
-
+[KG] Kleanthis Grigoriou [LK] Luke Kruger
 Title
-insert team member names here
+
 
 Elevator pitch 
 Describe your game in 30 seconds or less
