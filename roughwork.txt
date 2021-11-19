@@ -5,9 +5,13 @@ Title
 
 Elevator pitch 
 Describe your game in 30 seconds or less
+This game is similar to the other assassin's creed games, but this time it is in space. You will use non copyright breaching laser swords which are powered by radionuclear jellybeans. You will have traveled forward in time to do this, and assassin whoever you need to.
 ...
 World Background
 main differences in your game world
+In this game, all hay has been removed as this game takes place in space, and therefore would not fit in.
+In this game, you cannot jump off of anything due to zero gravity. If you attempt this, you will simply float off into space forever.
+In this game, if you are caught by the space police, you must enact a several day-long sequence of attempting to prove your character's innocence in a space trial. There is no way to get around this. We believe this is a worthy compromise for using the trailing missions slightly less.
 ...
 Pillars
 [KG] Core concepts include refined stealth and combat against multiple opponents. 
